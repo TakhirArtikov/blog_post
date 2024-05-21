@@ -1,0 +1,1 @@
+from .models import Author, Post, PostsTags, Category, Tag
